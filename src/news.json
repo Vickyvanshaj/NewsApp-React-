@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "News article 1",
+        "body":"Some body of news"
+    },
+
+    {
+        "id": 1,
+        "title": "News article 1",
+        "body":"Some body of news"
+    },
+
+    {
+        "id": 2,
+        "title": "News article 1",
+        "body":"Some body of news"
+    }
+
+]
